@@ -1,140 +1,147 @@
-# Hi there, I'm Dineshbabu N 👋
+# Hi there, I'm Dineshbabu 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Development+%7C+Software+Development;Python+%7C+Java+%7C+JavaScript;ReactJS+%7C+FastAPI+%7C+REST+APIs;PLM+Development+%7C+Workflow+Automation;AI%2FML+%7C+Edge+AI+%7C+TinyML;Building+Practical+Real-World+Solutions+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=500\&color=00E0B8\&vCenter=true\&width=1000\&lines=Full-Stack+Development;PLM+Development;Artificial+Intelligence+%7C+Machine+Learning;Web+Development+%7C+IoT;Building+Real-World+Solutions;Learning+%7C+Building+%7C+Innovating)
 
-Welcome to my GitHub! I'm passionate about building **full-stack applications, PLM solutions, AI-powered systems, smart technologies, and practical real-world software solutions.**
+Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing a 5-year Integrated M.Tech program** at **Sri Ramakrishna Engineering College, Coimbatore**. I am passionate about **Full-Stack Development, PLM Development, Artificial Intelligence, Machine Learning, and IoT**, with a strong interest in building practical and innovative software solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dineshbabu&color=1f8ef1&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/Dineshbabu?label=Followers&style=for-the-badge&color=37BCF7" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🚀 Tech Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,firebase" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,jira,vscode,androidstudio,arduino" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" />
+  <br /><br />
+
+  <img src="https://skillicons.dev/icons?i=react,fastapi,firebase,mongodb,mysql,postgresql&theme=dark" />
+  <br /><br />
+
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio&theme=dark" />
+  <br /><br />
+
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 </p>
-
----
-
-### 🧪 Currently Exploring
-
-- 💻 Full-Stack Development
-- 🌐 Web Application Development
-- ⚛️ ReactJS & Modern Frontend Development
-- ⚡ FastAPI & REST API Development
-- 🏭 Product Lifecycle Management (PLM)
-- 🔄 PLM Workflow Configuration & Automation
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚡ Edge AI & TinyML
-- 📡 IoT & Smart Systems
-- 🗄️ Database Management Systems
-- 🧠 Data Structures & Algorithms
-- 🧩 Object-Oriented Programming
-- 🧪 Software Testing & Debugging
-
----
-
-### 💡 Featured Work
-
-🔐 **AI-Driven URL Definer, Cleaner & Security Analysis System**  
-Intelligent system for analyzing URLs, removing tracking parameters, validating link authenticity, handling redirects, checking domains, and identifying spam and malicious URLs using machine learning.
-
-⚖️ **Dynamic Legal Lexicon**  
-React.js-based legal dictionary for law students with AI-powered assistance, quiz generation, term-of-the-day features, and Supabase-based real-time data management.
-
-⚡ **Edge-AI Smart Energy Monitoring & Control System**  
-ESP32-S3-based smart energy controller with real-time voltage, current, and power monitoring, TinyML-based occupancy detection, automated lights and fans, and a web dashboard for energy analysis and cost estimation.
-
-🏭 **PLM Development & Workflow Automation**  
-Worked with PLM data modelling, ItemTypes, properties, relationships, forms, manufacturing workflows, automation methods, testing, and debugging.
 
 ---
 
 ### 🧠 Core Skills
 
-- 💻 **Software & Full-Stack Development**
-- 🐍 **Python & Java Development**
-- ⚛️ **ReactJS**
-- ⚡ **FastAPI & REST APIs**
-- 🏭 **Product Lifecycle Management**
-- 🔄 **Workflow & Process Automation**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- ⚡ **Edge AI & TinyML**
-- 📡 **IoT & Smart Systems**
-- 🗄️ **SQL & NoSQL Databases**
-- 🔧 **Software Testing & Debugging**
+* Full-Stack Web Development
+* PLM Development & Data Modelling
+* REST API Development
+* Database Management
+* Artificial Intelligence & Machine Learning
+* IoT & Edge-AI Systems
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS & Operating Systems
 
 ---
 
-### 📊 Technology Stack
+### 🧪 Currently Exploring
 
-**Languages:**  
-`C` `Java` `Python` `JavaScript`
+* PLM Systems and Manufacturing Workflows
+* Full-Stack Application Development
+* Artificial Intelligence and Machine Learning
+* Edge AI and TinyML
+* Secure Web Applications
+* REST APIs and Backend Development
+* Database Design and Management
+* IoT-Based Intelligent Systems
+* Problem Solving and DSA
 
-**Frontend & Backend:**  
-`ReactJS` `FastAPI` `REST API` `Firebase`
+<br>
 
-**Databases:**  
-`Firestore` `SQLite` `MongoDB` `MySQL` `PostgreSQL`
+---
 
-**Tools:**  
-`Git` `GitHub` `Jira` `VS Code` `Android Studio` `Arduino IDE` `Figma`
+### 💡 Featured Work
 
-**Core Concepts:**  
-`Data Structures` `OOPS` `DBMS` `Operating Systems`
+* 🔐 **AI-Driven URL Definer, Cleaner & Security Analysis System**
+  Intelligent URL analysis system for removing tracking parameters, validating links, handling redirects, checking domains, and identifying spam or malicious URLs using machine learning.
+
+* ⚖️ **Dynamic Legal Lexicon**
+  React.js-based legal dictionary application with AI-powered assistance, quiz generation, and term-of-the-day features using Supabase.
+
+* ⚡ **Edge-AI Smart Energy Monitoring & Control System**
+  ESP32-S3 based intelligent energy monitoring system with real-time voltage, current, and power monitoring, TinyML-based occupancy detection, automated appliance control, and a web dashboard.
+
+* 🏭 **PLM Manufacturing Workflow System**
+  PLM-based manufacturing workflow development involving data modelling, ItemTypes, relationships, forms, automation methods, and process workflows.
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
 
 ---
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dineshbabu&theme=tokyonight&hide_border=true" alt="Dineshbabu's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshbabu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=37BCF7&line=A8FF60&point=ffffff" alt="Dineshbabu's Contribution Graph" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Dineshbabu%20N-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
+
   <a href="mailto:dineshbabu25n@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dineshbabu25%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <a href="https://github.com/Dineshbabu">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
 </p>
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Code+%7C+Learn+%7C+Build+%7C+Innovate+%F0%9F%9A%80;Turning+Ideas+into+Practical+Solutions+%F0%9F%A4%96;Building+%7C+Testing+%7C+Improving+%F0%9F%94%A5)
-
----
-
-### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdIbuA/Mohamed-Ibrahim-A/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1000&color=A8FF60&center=true&vCenter=true&width=650&lines=Learn.+Build.+Innovate.;Code+with+Purpose.;Turning+Ideas+Into+Solutions.;Thanks+for+stopping+by+%E2%9C%A8;Let's+collaborate%21"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MdIbuA/Mohamed-Ibrahim-A/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-> 💡 **Fun Fact:** I enjoy turning real-world problems into practical technology solutions by combining **software development, AI, automation, and emerging technologies!** 🚀
+⭐ **Fun Fact:** I enjoy exploring technology, solving real-world problems, and turning ideas into practical applications through software, AI, PLM, and IoT.
