@@ -1,13 +1,15 @@
 # Hi there, I'm Dineshbabu 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=500\&color=00E0B8\&vCenter=true\&width=1000\&lines=Full-Stack+Development;PLM+Development;Artificial+Intelligence+%7C+Machine+Learning;Web+Development+%7C+IoT;Building+Real-World+Solutions;Learning+%7C+Building+%7C+Innovating)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=00E0B8&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;PLM+Developer;AI+%7C+Machine+Learning;IoT+%7C+Edge+AI;Building+Real-World+Solutions;Learn+%7C+Build+%7C+Innovate" alt="Typing SVG" />
+</p>
 
 Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing a 5-year Integrated M.Tech program** at **Sri Ramakrishna Engineering College, Coimbatore**. I am passionate about **Full-Stack Development, PLM Development, Artificial Intelligence, Machine Learning, and IoT**, with a strong interest in building practical and innovative software solutions.
 
 <p align="center">
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=00E0B8&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;PLM+Developer;AI+%7C+Machine+Learning;IoT+%7C+Edge+AI;Building+Real-World+Solutions;Learn+%7C+Build+%7C+Innovate)
-  <img src="https://img.shields.io/github/followers/Dineshbabu?label=Followers&style=for-the-badge&color=37BCF7" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Dineshbabu25&color=1f8ef1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dineshbabu25?label=Followers&style=for-the-badge&color=37BCF7" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge" alt="Status" />
 </p>
 
 ---
@@ -15,45 +17,45 @@ Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing
 ### 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Programming Languages" />
   <br /><br />
 
-  <img src="https://skillicons.dev/icons?i=react,fastapi,firebase,mongodb,mysql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,firebase,mongodb,mysql,postgresql&theme=dark" alt="Frameworks and Databases" />
   <br /><br />
 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio&theme=dark" alt="Development Tools" />
   <br /><br />
 
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 </p>
 
 ---
 
 ### 🧠 Core Skills
 
-* Full-Stack Web Development
-* PLM Development & Data Modelling
-* REST API Development
-* Database Management
-* Artificial Intelligence & Machine Learning
-* IoT & Edge-AI Systems
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS & Operating Systems
+- Full-Stack Web Development
+- PLM Development & Data Modelling
+- REST API Development
+- Database Management
+- Artificial Intelligence & Machine Learning
+- IoT & Edge-AI Systems
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS & Operating Systems
 
 ---
 
 ### 🧪 Currently Exploring
 
-* PLM Systems and Manufacturing Workflows
-* Full-Stack Application Development
-* Artificial Intelligence and Machine Learning
-* Edge AI and TinyML
-* Secure Web Applications
-* REST APIs and Backend Development
-* Database Design and Management
-* IoT-Based Intelligent Systems
-* Problem Solving and DSA
+- PLM Systems and Manufacturing Workflows
+- Full-Stack Application Development
+- Artificial Intelligence and Machine Learning
+- Edge AI and TinyML
+- Secure Web Applications
+- REST APIs and Backend Development
+- Database Design and Management
+- IoT-Based Intelligent Systems
+- Problem Solving and DSA
 
 <br>
 
@@ -61,16 +63,16 @@ Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing
 
 ### 💡 Featured Work
 
-* 🔐 **AI-Driven URL Definer, Cleaner & Security Analysis System**
+- 🔐 **AI-Driven URL Definer, Cleaner & Security Analysis System**  
   Intelligent URL analysis system for removing tracking parameters, validating links, handling redirects, checking domains, and identifying spam or malicious URLs using machine learning.
 
-* ⚖️ **Dynamic Legal Lexicon**
+- ⚖️ **Dynamic Legal Lexicon**  
   React.js-based legal dictionary application with AI-powered assistance, quiz generation, and term-of-the-day features using Supabase.
 
-* ⚡ **Edge-AI Smart Energy Monitoring & Control System**
+- ⚡ **Edge-AI Smart Energy Monitoring & Control System**  
   ESP32-S3 based intelligent energy monitoring system with real-time voltage, current, and power monitoring, TinyML-based occupancy detection, automated appliance control, and a web dashboard.
 
-* 🏭 **PLM Manufacturing Workflow System**
+- 🏭 **PLM Manufacturing Workflow System**  
   PLM-based manufacturing workflow development involving data modelling, ItemTypes, relationships, forms, automation methods, and process workflows.
 
 ---
@@ -79,30 +81,30 @@ Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
 </p>
 
@@ -111,11 +113,11 @@ Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dineshbabu&theme=tokyonight&hide_border=true" alt="Dineshbabu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dineshbabu25&theme=tokyonight&hide_border=true" alt="Dineshbabu's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshbabu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=37BCF7&line=A8FF60&point=ffffff" alt="Dineshbabu's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshbabu25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=37BCF7&line=A8FF60&point=ffffff" alt="Dineshbabu's Contribution Graph" />
 </p>
 
 ---
@@ -128,18 +130,18 @@ Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://github.com/Dineshbabu">
+  <a href="https://github.com/Dineshbabu25">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1000&color=A8FF60&center=true&vCenter=true&width=650&lines=Learn.+Build.+Innovate.;Code+with+Purpose.;Turning+Ideas+Into+Solutions.;Thanks+for+stopping+by+%E2%9C%A8;Let's+collaborate%21"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1000&color=A8FF60&center=true&vCenter=true&width=650&lines=Learn.+Build.+Innovate.;Code+with+Purpose.;Turning+Ideas+Into+Solutions.;Thanks+for+stopping+by+%E2%9C%A8;Let's+collaborate%21" alt="Closing Message" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdIbuA/Mohamed-Ibrahim-A/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/MdIbuA/Mohamed-Ibrahim-A/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
