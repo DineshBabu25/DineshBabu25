@@ -5,7 +5,7 @@
 Welcome to my GitHub! I am a **Computer Science and Engineering student pursuing a 5-year Integrated M.Tech program** at **Sri Ramakrishna Engineering College, Coimbatore**. I am passionate about **Full-Stack Development, PLM Development, Artificial Intelligence, Machine Learning, and IoT**, with a strong interest in building practical and innovative software solutions.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dineshbabu&color=1f8ef1&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=700&color=00E0B8&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;PLM+Developer;AI+%7C+Machine+Learning;IoT+%7C+Edge+AI;Building+Real-World+Solutions;Learn+%7C+Build+%7C+Innovate)
   <img src="https://img.shields.io/github/followers/Dineshbabu?label=Followers&style=for-the-badge&color=37BCF7" alt="Followers"/>
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=for-the-badge"/>
 </p>
